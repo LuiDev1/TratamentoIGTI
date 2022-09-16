@@ -1,4 +1,4 @@
-# UploadTratamentoIGTI
+# TratamentoIGTI
 
 Exercicio guiado feito no curso de NODE JS, via IGTI.
 
